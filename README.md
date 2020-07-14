@@ -1,4 +1,5 @@
 # Gist ID b49e4b7425ba9f706fdaacd67c8e9608
+#tested on mac and linux
 # Requirement 
 1. php <br>
   cek your php
