@@ -1,4 +1,15 @@
 # Gist ID b49e4b7425ba9f706fdaacd67c8e9608
+# Requirement 
+1. php <br>
+  cek your php
+  ```bash
+    php -v
+  ```
+2. git <br>
+  cek your git
+  ```bash
+  git --version
+  ```
 # use Extentions Settings Sync vscode for upload and download your setting vscode to gist github
 1. Install extension Setting sync
 2. Login to github to generate access token
@@ -32,6 +43,9 @@ Extension Instaled:
 User Snipset:
 1. prefix "p32-ajax-handel" for handel request ajax
 2. prefix "p32-validator-laravel" for handel validator laravel
+
+#note
+* Make sure your os instaled php and git,
 
 
 
