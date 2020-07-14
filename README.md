@@ -27,6 +27,7 @@ Extension Instaled:
 17. Settings Sync v3.4.3
 18. Vetur v0.24.0
 19. vue v0.1.5
+20. Theme Atom One Dark Theme (akamud.vscode-theme-onedark) (Mahmoud Ali) v2.2.2
 
 User Snipset:
 1. prefix "p32-ajax-handel" for handel request ajax
