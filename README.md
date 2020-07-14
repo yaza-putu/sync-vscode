@@ -5,7 +5,7 @@
 3. Upload setting & config 
 press key ctrl+shift+p (linux) or command+shift+p (mac), select >Sync : Update/Upload Settings
 4. Download setting & config sync press key ctrl+shift+p (linux) or command+shift+p (mac), select > Sync : Download Setting
-Or Download public gist  and oaste gist ID.
+Or Download public gist  and paste gist ID => b49e4b7425ba9f706fdaacd67c8e9608
 
 Extension Instaled:
 1. Autofefixer v3.0.1
